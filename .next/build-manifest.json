@@ -31,11 +31,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/calculators.js"
-    ],
-    "/calculators/break-even": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/calculators/break-even.js"
     ]
   },
   "ampFirstPages": []
